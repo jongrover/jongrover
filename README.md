@@ -4,4 +4,4 @@ I'm a software engineer with over 15 years of experience and the founder of the 
 
 I also use programming to create <a href='https://jonathangrover.com/' target='_blank'>interactive artwork</a> that has been exhibited around the world. 
 
-To learn more, you can browse my <a href='https://hire.jonathangrover.com/#resume'>résumé</a> below. Or use the form below to <a href='https://hire.jonathangrover.com/#contact'>contact me</a> anytime.
+To learn more, you can browse my <a href='https://hire.jonathangrover.com/#resume'>résumé</a>. Or feel free to <a href='https://hire.jonathangrover.com/#contact'>contact me</a> anytime.
